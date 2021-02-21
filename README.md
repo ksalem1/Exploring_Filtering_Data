@@ -1,4 +1,4 @@
-# Udacity-Exploring-Data
+# Exploring and Filtering Data
 ## Completed as part of Udacity's data analysis nanodegree.
 
 In this project the aim was to explore data related to bike share systems for three major cities in the United States; Chicago, New York City, and Washington.
